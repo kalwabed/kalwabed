@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalwabed Rizki</h1>
 
+you can find me as Kawari, that's mean **Ka**l**wa**bed **Ri**zki.
+
 - 🌱 I’m currently learning **Typescript, Node, React, and Next.js**
 
 - 📫 How to reach me **kalwabedrzk@pm.me**
