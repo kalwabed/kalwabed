@@ -2,7 +2,7 @@
 
 you can find me as Kawari, that's mean **Ka**l**wa**bed **Ri**zki.
 
-- 🌱 I’m currently learning **Typescript, Node, React, and Next.js**
+- 🌱 I’m currently learning **Typescript, Node, React, Tailwindcss, and NextJs**
 
 - 📫 How to reach me **kalwabedrzk@pm.me**
 
