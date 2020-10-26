@@ -14,7 +14,7 @@ you can find me as Kawari (formerly Kaliwa), that's mean **Ka**l**wa**bed **Ri**
 
 <p align="center">
 <a href="https://dev.to/kawari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kaliwa" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kaliwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaliwa" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kalwabed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaliwa" height="30" width="30" /></a>
 <a href="https://fb.com/kalwabed.kr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kalwabed.kr" height="30" width="30" /></a>
 <a href="https://instagram.com/kalwabed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kaliwa__" height="30" width="30" /></a>
 </p>
