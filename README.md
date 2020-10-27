@@ -2,13 +2,13 @@
 
 you can find me as Kawari (formerly Kaliwa), that's mean **Ka**l**wa**bed **Ri**zki.
 
-- 🌱 I’m currently learning **Typescript, Node, React, Tailwindcss, and NextJs**
+- 🌱 I’m currently learning microservices architecture, Docker, and Kubernetes
+
+- :question: Ask me about anything
 
 - 📫 How to reach me **kalwabedrzk@pm.me**
 
 - ⚡ Fun fact **love coffee and literature, also open sources**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kalwabed)](https://github.com/ryo-ma/github-profile-trophy)
 
