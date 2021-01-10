@@ -2,7 +2,7 @@
 
 you can find me as Kawari (formerly Kaliwa), that's mean **Ka**l**wa**bed **Ri**zki.
 
-- 🌱 I’m currently learning microservices architecture, Docker, and Kubernetes
+- 🌱 I’m currently learning Next.js, Tailwindcss, and Database engine
 
 - :question: Ask me about anything
 
