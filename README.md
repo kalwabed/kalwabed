@@ -10,6 +10,8 @@ you can find me as Kawari (formerly Kaliwa), that's mean **Ka**l**wa**bed **Ri**
 
 - ⚡ Fun fact **love coffee and literature, also open sources**
 
+<img src="https://github.com/kalwabed/kalwabed/blob/master/github-metrics.svg"/>
+
 <p align="center">
 <a href="https://dev.to/kalwabed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kaliwa" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/kalwabed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaliwa" height="30" width="30" /></a>
