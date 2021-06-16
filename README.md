@@ -6,7 +6,7 @@ you can find me as Kawari (formerly Kaliwa), that's mean **Ka**l**wa**bed **Ri**
 
 - :question: Ask me about anything
 
-- 📫 How to reach me **kalwabedrzk@pm.me**
+- 📫 How to reach me **kalwabedrzk@protonmail.com**
 
 - ⚡ Fun fact **love coffee and literature, also open sources**
 
